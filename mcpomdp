@@ -1,0 +1,28 @@
+[33mcommit 214fa835e2271d4105d7c5c1096902c0f2b1b13e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Pablo Navarrete <psantiago53@hotmail.com>
+Date:   Mon Sep 19 22:25:08 2022 -0500
+
+    david por siempre
+
+[1mdiff --git a/Historia de una gran persona.yml b/Historia de una gran persona.yml[m
+[1mnew file mode 100644[m
+[1mindex 0000000..387528e[m
+[1m--- /dev/null[m
+[1m+++ b/Historia de una gran persona.yml[m	
+[36m@@ -0,0 +1,13 @@[m
+[32m+[m[32mEsta es la historia de una gran persona que no merecia el final que tuvo[m
+[32m+[m
+[32m+[m[32mTemia tantas metas que queria cumplir pero la vida fue injusta con el[m
+[32m+[m
+[32m+[m[32msu gran sueno era ser futbolista y se preparaba para jugar la copa peru[m
+[32m+[m
+[32m+[m[32msiempre fuiste y sera un gran primo con toda la atitud que ponias en cada juego[m
+[32m+[m
+[32m+[m[32mte quiero mucho y deseria volverte a ver y disculparme por no verte cuando aun tenias vida[m
+[32m+[m
+[32m+[m[32mes algo que tendre clavado dentro de mi, descanza y divierte donde sea que estes[m
+[32m+[m
+[32m+[m[32myo se que nos volveremos a encontrar[m
+[1mdiff --git a/LaHistoria.txt b/LaHistoria.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
